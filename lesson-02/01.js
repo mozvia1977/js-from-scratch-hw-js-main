@@ -24,6 +24,8 @@ if (isAdmin || isVerifiedUser) {
 } else {
     isAccess = false
 }
+
+
 /*
 // your code
 if (isAdmin === true || isVerifiedUser === true) {
